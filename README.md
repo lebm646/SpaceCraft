@@ -14,6 +14,7 @@ Python – Core game logic and structure
 Pygame – Graphics rendering and event handling
 Object-Oriented Programming (OOP) – Modular game architecture
 Git & GitHub – Version control and collaboration
+
 🚀 How to Run the Game
 Clone the repository:
 git clone https://github.com/minsalive/SpaceCraft.git
